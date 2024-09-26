@@ -2,11 +2,11 @@
 
 pragma solidity 0.8.19;
 
-/**
- * @title DataTypes
- * @notice Library containing various data structures and enums for the PirexEth.
- * @dev This library provides data structures and enums crucial for the functionality of the Pirex protocol.
- * @author redactedcartel.finance
+/*
+  @title DataTypes
+  @notice Library containing various data structures and enums for the PirexEth.
+  @dev This library provides data structures and enums crucial for the functionality of the Pirex protocol.
+  @author redactedcartel.finance
  */
 library DataTypes {
     // Validator struct type
